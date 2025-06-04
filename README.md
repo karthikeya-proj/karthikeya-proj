@@ -1,10 +1,27 @@
 # About Me:
 Hi, I'm Naga Karthikeya<br>I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Alliance University, Bangalore.<br> Currently working on projects in AI, ML, RL and Generative AI while exploring modern web development with a focus on clean and intuitive user interfaces.<br> Passionate about turning innovative ideas into impactful projects, and actively showcasing my skills through GitHub.<br> Continuously learning and staying up-to-date with the latest in tech, tools, and best practices.
 
+##
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PidatalaNagaKarthikeya)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyakarthik872@gmail.com)
+
+##
+
+
+##  My Projects
+
+Here are some of the key projects I've worked on:
+
+- [🎬 Movie Recommendation System](https://github.com/karthikeya-proj/Movie_recommendation_system)  
+- [🧠 Multi-Agent Reinforcement Learning: Trash Collection](https://github.com/karthikeya-proj/marl-trash-collection)  
+- [📰 News Recommendation System](https://github.com/karthikeya-proj/news_recommendation_system)  
+- [💱 Currency Converter (React + API)](https://github.com/karthikeya-proj/currency_converter1)  
+- [💰 Personal Expense Tracker](https://github.com/karthikeya-proj/personal-expense-tracker)
+
+  ##
 
 
 # 💻 Tech Stack
