@@ -21,6 +21,7 @@ Here are some of the key projects I've worked on:
 - [⛈ Smart Weather and News Application (API)](https://github.com/karthikeya-proj/weatherSmartInfo-Weather-News-)
 - [💱 Currency Converter (React + API)](https://github.com/karthikeya-proj/currency_converter1)  
 - [💰 Personal Expense Tracker](https://github.com/karthikeya-proj/personal-expense-tracker)
+- [🎓 Career Guidance offline chatbot](https://github.com/karthikeya-proj/Career_Guidance-AI)
 
   ##
 
