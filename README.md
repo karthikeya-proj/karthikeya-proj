@@ -19,9 +19,11 @@ Here are some of the key projects I've worked on:
 - [🧠 Multi-Agent Reinforcement Learning: Trash Collection](https://github.com/karthikeya-proj/marl-trash-collection)  
 - [📰 News Recommendation System ](https://github.com/karthikeya-proj/news_recommendation_system)
 - [⛈ Smart Weather and News Application (API)](https://github.com/karthikeya-proj/weatherSmartInfo-Weather-News-)
-- [💱 Currency Converter (React + API)](https://github.com/karthikeya-proj/currency_converter1)  
+- [💱 Currency Converter (React + API)](https://github.com/karthikeya-proj/currency_converter1)
+- [🔉Audio-text converter](https://github.com/karthikeya-proj/offline-Transcriber)
+- [🎓 Career Guidance offline chatbot](https://github.com/karthikeya-proj/Career-friend)
 - [💰 Personal Expense Tracker](https://github.com/karthikeya-proj/personal-expense-tracker)
-- [🎓 Career Guidance offline chatbot](https://github.com/karthikeya-proj/Career_Guidance-AI)
+
 
   ##
 
