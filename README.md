@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Naga Karthikeya<br>I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Alliance University, Bangalore.<br> Currently working on projects in AI, ML, RL and Generative AI while exploring modern web development with a focus on clean and intuitive user interfaces.<br> Passionate about turning innovative ideas into impactful projects, and actively showcasing my skills through GitHub.<br> Continuously learning and staying up-to-date with the latest in tech, tools, and best practices.
+Hi, I'm Naga Karthikeya<br>I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Alliance University, Bangalore.<br> Currently working on projects in AI, ML, RL and Generative AI while exploring modern web development .<br> Passionate about turning innovative ideas into impactful projects, and actively showcasing my skills through GitHub.<br> Continuously learning and staying up-to-date with the latest in tech, tools, and best practices.
 
 ##
 
@@ -32,12 +32,8 @@ Here are some of the key projects I've worked on:
 # 💻 Tech Stack
 
 ## Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ---
 
 ## Tools & Platforms
