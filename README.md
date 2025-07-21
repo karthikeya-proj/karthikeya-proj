@@ -15,6 +15,9 @@ Hi, I'm Naga Karthikeya<br>I'm a final-year B.Tech student specializing in Artif
 
 Here are some of the key projects I've worked on:
 
+- [💳 Credit Approval System – Backend API (Django + DRF)](https://github.com/karthikeya-proj/credit-approval-system)
+- [🗐  Your-Assistant: Document Q&A using LLaMA3/Mistral + FastAPI + Streamlit](https://github.com/karthikeya-proj/Your-Assistant)
+- [🛍️ ShopFast - E-commerce Backend API](https://github.com/karthikeya-proj/ShopFast)
 - [🛒 Classifi – FastAPI CRUD API for Hyperlocal Classified Ads (MongoDB + Postman](https://github.com/karthikeya-proj/classifi-fastapi)
 - [🎓 Career Guidance offline chatbot](https://github.com/karthikeya-proj/Career-friend)
 - [🔉 Audio-text converter](https://github.com/karthikeya-proj/offline-Transcriber)
@@ -24,7 +27,7 @@ Here are some of the key projects I've worked on:
 - [📰 News Recommendation System ](https://github.com/karthikeya-proj/news_recommendation_system)
 - [🎬 Movie Recommendation System](https://github.com/karthikeya-proj/Movie_recommendation_system) 
 - [💰 Personal Expense Tracker](https://github.com/karthikeya-proj/personal-expense-tracker)
-
+  
 
   ##
 
